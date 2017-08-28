@@ -20,12 +20,6 @@ class App extends React.Component {
     //checkbox
    
   }
-
-
-
-   
-
-    
     handleSubmit = (evt)=>{
      
     evt.preventDefault()
